@@ -3,3 +3,4 @@ Check the accuracy by comparing the training and the testing data using differen
 - KNN 
 - Linear Regression 
 - Decision Tree
+- Naive Baye's
