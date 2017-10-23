@@ -1,5 +1,6 @@
 """
 A simple script that demonstrates how we classify textual data with sklearn.
+//Includes all the algorithms//
 """
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.metrics import accuracy_score
